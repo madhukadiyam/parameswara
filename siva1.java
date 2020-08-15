@@ -7,3 +7,4 @@ git commit -m "siva1.java file pushed"
 git remote add origin "github new repository url paste here"
 git remote add origin URL
 git push -u origin master
+git intigration with github jenkins
